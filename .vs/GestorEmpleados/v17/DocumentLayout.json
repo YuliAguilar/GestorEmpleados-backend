@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Escritorio\\GestorEmpleados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|c:\\users\\dell\\onedrive\\escritorio\\gestorempleados\\gestorempleados\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|solutionrelative:gestorempleados\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|c:\\users\\dell\\onedrive\\escritorio\\gestorempleados\\gestorempleados\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|solutionrelative:gestorempleados\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|c:\\users\\dell\\onedrive\\escritorio\\gestorempleados\\gestorempleados\\miwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|solutionrelative:gestorempleados\\miwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|c:\\users\\dell\\onedrive\\escritorio\\gestorempleados\\gestorempleados\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|solutionrelative:gestorempleados\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|c:\\users\\dell\\onedrive\\escritorio\\gestorempleados\\gestorempleados\\data\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|solutionrelative:gestorempleados\\data\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiWebAPI.http",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\GestorEmpleados\\GestorEmpleados\\MiWebAPI.http",
+              "RelativeDocumentMoniker": "GestorEmpleados\\MiWebAPI.http",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\GestorEmpleados\\GestorEmpleados\\MiWebAPI.http",
+              "RelativeToolTip": "GestorEmpleados\\MiWebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-21T05:20:30.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\GestorEmpleados\\GestorEmpleados\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "GestorEmpleados\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\GestorEmpleados\\GestorEmpleados\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "GestorEmpleados\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T00:59:33.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\GestorEmpleados\\GestorEmpleados\\appsettings.json",
+              "RelativeDocumentMoniker": "GestorEmpleados\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\GestorEmpleados\\GestorEmpleados\\appsettings.json",
+              "RelativeToolTip": "GestorEmpleados\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAC5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T00:52:10.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadoData.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\GestorEmpleados\\GestorEmpleados\\Data\\EmpleadoData.cs",
+              "RelativeDocumentMoniker": "GestorEmpleados\\Data\\EmpleadoData.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\GestorEmpleados\\GestorEmpleados\\Data\\EmpleadoData.cs",
+              "RelativeToolTip": "GestorEmpleados\\Data\\EmpleadoData.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAADsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T00:38:00.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\GestorEmpleados\\GestorEmpleados\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "GestorEmpleados\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\GestorEmpleados\\GestorEmpleados\\Models\\Empleado.cs",
+              "RelativeToolTip": "GestorEmpleados\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T00:37:33.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
